@@ -21,7 +21,7 @@ Documenation and Instructions
 <p>Pre-Requisites</p>
 <ul>
 <li>Automic 11.2 or above</li>
-<li>Plugin Manager (https://marketplace.automic.com/details/plugin-manager)</li>
+<li><a href="https://marketplace.automic.com/details/plugin-manager" target="_blank">Plugin Manager</a></li>
 <li>PowerShell</li>
 <li>Microsoft Excel</li>
 </ul>
