@@ -2,7 +2,7 @@
 =============
 
 
-Make Microsoft Excel part of your orchestration workflows.
+Make Microsoft Excel part of your orchestration workflows
 http://github.com/Automic-Community/Microsoft-Excel-Community-Action-Pack
 
 <!-- List of attached files -->
